@@ -15,4 +15,9 @@ public class App
     {
         System.out.println("Hello jagan!");
     }
+    
+    public void main2(  )
+    {
+        System.out.println("Hello astha!");
+    }
 }
