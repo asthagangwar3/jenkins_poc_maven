@@ -20,4 +20,8 @@ public class App
     {
         System.out.println("Hello astha!");
     }
+    public void main3(  )
+    {
+        System.out.println("Hello astha gangwar!");
+    }
 }
